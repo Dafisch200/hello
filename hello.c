@@ -12,5 +12,7 @@ int main(int argc, char **argv) {
 
   printf("Dalton Fischer\n");
 
+  printf("I'm a Mechanical Engineering Major\n");
+  
   return 0;
 }
